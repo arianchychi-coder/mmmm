@@ -1,0 +1,22 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "electron": "^40.6.0",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "electron-builder": "^26.8.1",
+    "nodemon": "^3.1.14"
+  }
+}
